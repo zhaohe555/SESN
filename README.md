@@ -10,6 +10,7 @@ PPI data: DIP.txt; biogrid.txt; ppi_fruitfly.txt
 Essential protein: essentialprotein.txt; essentialprotein_fruitfly.txt
 
 Biological data for yeast: go_slim.txt; gene_expression.txt; protein_complex.txt; subceller_remove.txt
+
 Biological data for fruitfly: go_fruitfly.txt; geneexpression_fruitfly.txt; complex_fruitfly.txt; subceller_fruitfly.txt
 
 3.Usage
