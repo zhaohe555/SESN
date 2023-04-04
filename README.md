@@ -20,4 +20,4 @@ If you want to change PPI data, please change PPI networks(ppifilename) in the f
 4.Result analysis
 
 (1) Output the experimental results of nine groups parameters, respectively.
-(2) The best results of SESN are written in 'result_SESN.txt'.
+(2) The best results of SESN are written in 'result_SESN.txt', 'result_SESN_fruitfly.txt'.
